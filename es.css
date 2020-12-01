@@ -1,0 +1,13 @@
+table{
+    border: 2px solid #8eb1b8;
+    font: fantasy;
+    background-origin: border-box;
+    background-color: rgb(124, 215, 243);
+}
+input  type-text{
+    width: 100%;
+    padding: 0px 20px;
+    border: 2px solid #876587;
+    box-sizing: border-box;
+
+} 
